@@ -14,4 +14,10 @@ public class Application {
 		int a=1;
 	}
 
+	//2nd story
+	public void m2()
+	{
+		int d=4;
+	}
+
 }
