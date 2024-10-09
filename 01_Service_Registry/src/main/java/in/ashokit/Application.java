@@ -12,7 +12,6 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		int b=12;
 		int a=1;
-		int c=2;
 	}
 
 }
