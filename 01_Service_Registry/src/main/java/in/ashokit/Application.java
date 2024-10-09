@@ -18,6 +18,7 @@ public class Application {
 	public void m2()
 	{
 		int d=4;
+		int b=20;
 	}
 
 }
